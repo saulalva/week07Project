@@ -4,7 +4,7 @@
   <artifactId>mysql-java</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-  <java.version>21</java.version>
+    <java.version>21</java.version>
   </properties>
   <dependencies>
 <dependency>
